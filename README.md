@@ -39,7 +39,7 @@ shopify theme init
 Preview this theme using Shopify CLI:
 
 ```bash
-shopify theme dev
+shopify theme dev -e vitavax
 ```
 
 ## Theme architecture
