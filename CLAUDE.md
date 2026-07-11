@@ -1,0 +1,1 @@
+/Users/akash/Desktop/Development/shopify/Theme/vitavax-theme/AGENTS.md
